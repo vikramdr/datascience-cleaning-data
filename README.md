@@ -1,4 +1,3 @@
-# datascience-cleaning-data
 # Download the zip file and save it
 # Unzip all the files
 # Read Subject, Activity and Feature data
